@@ -1,5 +1,6 @@
 # beauty-FE
 
+This beauty-FE repository goes with beauty-BE (https://github.com/yoonmikim/beauty-BE)
 
 A Makeup App where user can sign up, log in, log out, go to homepage with categories with images, emojis, and gifs, go to profile page, view products, filter/sort/search products based on user inputs. If user likes certain products, user can add to cart and/or go to product pages to purchase.
 
